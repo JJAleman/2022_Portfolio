@@ -60,26 +60,35 @@ section{
 .sec1{
     display: none;
     transform: translateY(0) scale(1);
+    background-color: blue;
 }
 
 .sec2{
     display: none;
     transform: translateY(0) scale(1);
+    background-color: rgba(34, 161, 25, 0.776)
 }
 
 .sec3{
     display: none;
     transform: translateY(0) scale(1);
+    background-color: rgb(244, 240, 16)
 }
 
 .sec4{
     display: none;
     transform: translateY(0) scale(1);
+    background-color: rgb(216, 126, 8)
 }
 
 .sec5{
     display: none;
     transform: translateY(0) scale(1);
+    background-color: rgb(200, 48, 6)
+}
+
+.active{
+    display: block;
 }
 
 //Controls
